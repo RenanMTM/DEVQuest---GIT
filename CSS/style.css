@@ -1,0 +1,9 @@
+.paragrafo{
+    background-color: #F5F5F5;
+    display: block;
+    padding: 20px;
+    margin: 40px;
+}
+.paragrafo.destaque{
+    background-color: #F0CCE2;
+}
